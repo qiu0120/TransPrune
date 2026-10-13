@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc3774c1-5746-4416-883c-090a30d9180c" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../../LaTex笔记/NeurIPS-2025-template/python画图/figure1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LaTex笔记/NeurIPS-2025-template/python画图/figure2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../git学习笔记.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VLA 28天旧详细日程备份.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VLA学习主题清单.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/attention-is-all-you-need.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/.idea/code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/ViT.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/ViT_patch_embedding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/attention_block.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/demos/demo_dropout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/demos/demo_layernorm_batchnorm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/demos/demo_multihead.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/demos/demo_positional_encoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/demos/demo_reshape_transpose.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/embedding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/model.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/multihead.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/multihead_attention.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/self_attention.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/self_attention_practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/code/transformer_train_infer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/transfoermer架构图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../transformer/transformer.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TransPrune" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3KOK9nHr93pq7C6LHyoq2J7KWgs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-82724e2b1abb-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.28293.52" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="cc3774c1-5746-4416-883c-090a30d9180c" name="更改" comment="" />
+      <created>1791423026425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791423026425</updated>
+    </task>
+    <servers />
+  </component>
+</project>

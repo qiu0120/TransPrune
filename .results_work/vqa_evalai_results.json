@@ -1,0 +1,27 @@
+{
+  "source": "用户提供的 EvalAI Test-Dev Result file JSON；Low 已由用户纠正",
+  "date": "2026-10-08",
+  "results": [
+    {
+      "config": "原模型",
+      "yesNo": 92.22,
+      "number": 60.05,
+      "other": 71.06,
+      "overall": 78.52
+    },
+    {
+      "config": "TransPrune-High",
+      "yesNo": 92.11,
+      "number": 59.47,
+      "other": 69.76,
+      "overall": 77.8
+    },
+    {
+      "config": "TransPrune-Low",
+      "yesNo": 91.35,
+      "number": 58.28,
+      "other": 67.93,
+      "overall": 76.48
+    }
+  ]
+}

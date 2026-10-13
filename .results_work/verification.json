@@ -1,0 +1,22 @@
+{
+  "verified_scores": 20,
+  "complete_prediction_runs": 23,
+  "pending_runs": [
+    [
+      "gqa",
+      "baseline"
+    ]
+  ],
+  "pending_online_scores": 3,
+  "changed_existing_cells": 89,
+  "preserved_existing_tabs": [
+    "主实验",
+    "MME分项",
+    "效率",
+    "消融",
+    "实验安排"
+  ],
+  "preserved_merges_freeze_panes_validations": true,
+  "unrelated_values_and_formulas_unchanged": true,
+  "formula_errors": 0
+}

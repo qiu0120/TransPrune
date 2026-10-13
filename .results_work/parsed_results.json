@@ -1,0 +1,285 @@
+{
+  "proof": [
+    {
+      "benchmark": "mme",
+      "config": "baseline",
+      "metric": 1505.8788515406163,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "mme",
+      "config": "high",
+      "metric": 1521.6852741096438,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "mme",
+      "config": "low",
+      "metric": 1475.3912565026012,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "textvqa",
+      "config": "baseline",
+      "metric": 58.21,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "textvqa",
+      "config": "high",
+      "metric": 57.85,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "textvqa",
+      "config": "low",
+      "metric": 56.52,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "scienceqa",
+      "config": "baseline",
+      "metric": 69.46,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "scienceqa",
+      "config": "high",
+      "metric": 69.51,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "scienceqa",
+      "config": "low",
+      "metric": 68.77,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "pope",
+      "config": "baseline",
+      "metric": 85.91996787280682,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "pope",
+      "config": "high",
+      "metric": 84.99709669265845,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "pope",
+      "config": "low",
+      "metric": 84.75755949539463,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "gqa",
+      "config": "baseline",
+      "metric": null,
+      "status": "未完成"
+    },
+    {
+      "benchmark": "gqa",
+      "config": "high",
+      "metric": 61.46,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "gqa",
+      "config": "low",
+      "metric": 59.9,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "seed",
+      "config": "baseline",
+      "metric": 66.19124569662053,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "seed",
+      "config": "high",
+      "metric": 65.68537904868967,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "seed",
+      "config": "low",
+      "metric": 64.11859762523713,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "vqav2",
+      "config": "baseline",
+      "metric": null,
+      "status": "推理完成，待在线评分"
+    },
+    {
+      "benchmark": "vqav2",
+      "config": "high",
+      "metric": null,
+      "status": "推理完成，待在线评分"
+    },
+    {
+      "benchmark": "vqav2",
+      "config": "low",
+      "metric": null,
+      "status": "推理完成，待在线评分"
+    },
+    {
+      "benchmark": "mmbench",
+      "config": "baseline",
+      "metric": 64.28571428571429,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "mmbench",
+      "config": "high",
+      "metric": 65.47619047619048,
+      "status": "已完成并评分"
+    },
+    {
+      "benchmark": "mmbench",
+      "config": "low",
+      "metric": 64.88095238095238,
+      "status": "已完成并评分"
+    }
+  ],
+  "popeDetails": [
+    {
+      "config": "baseline",
+      "category": "adversarial",
+      "count": 3000,
+      "acc": 0.8516666666666667,
+      "precision": 0.8993186979560939,
+      "recall": 0.792,
+      "f1": 0.8422545196738745,
+      "yes": 0.44033333333333335,
+      "tp": 1188,
+      "fp": 133,
+      "tn": 1367,
+      "fn": 312,
+      "source": "/root/autodl-tmp/transprune-work/results/table1_baseline/logs/pope.score.log"
+    },
+    {
+      "config": "baseline",
+      "category": "popular",
+      "count": 3000,
+      "acc": 0.8726666666666667,
+      "precision": 0.9443561208267091,
+      "recall": 0.792,
+      "f1": 0.8614938361131255,
+      "yes": 0.41933333333333334,
+      "tp": 1188,
+      "fp": 70,
+      "tn": 1430,
+      "fn": 312,
+      "source": "/root/autodl-tmp/transprune-work/results/table1_baseline/logs/pope.score.log"
+    },
+    {
+      "config": "baseline",
+      "category": "random",
+      "count": 2910,
+      "acc": 0.8821305841924398,
+      "precision": 0.9745693191140279,
+      "recall": 0.792,
+      "f1": 0.8738506803972048,
+      "yes": 0.4189003436426117,
+      "tp": 1188,
+      "fp": 31,
+      "tn": 1379,
+      "fn": 312,
+      "source": "/root/autodl-tmp/transprune-work/results/table1_baseline/logs/pope.score.log"
+    },
+    {
+      "config": "high",
+      "category": "adversarial",
+      "count": 3000,
+      "acc": 0.847,
+      "precision": 0.9075959279561472,
+      "recall": 0.7726666666666666,
+      "f1": 0.8347137198415556,
+      "yes": 0.4256666666666667,
+      "tp": 1159,
+      "fp": 118,
+      "tn": 1382,
+      "fn": 341,
+      "source": "/root/autodl-tmp/transprune-work/results/table1_high/logs/pope.score.log"
+    },
+    {
+      "config": "high",
+      "category": "popular",
+      "count": 3000,
+      "acc": 0.866,
+      "precision": 0.95,
+      "recall": 0.7726666666666666,
+      "f1": 0.852205882352941,
+      "yes": 0.4066666666666667,
+      "tp": 1159,
+      "fp": 61,
+      "tn": 1439,
+      "fn": 341,
+      "source": "/root/autodl-tmp/transprune-work/results/table1_high/logs/pope.score.log"
+    },
+    {
+      "config": "high",
+      "category": "random",
+      "count": 2910,
+      "acc": 0.8735395189003436,
+      "precision": 0.9772344013490725,
+      "recall": 0.7726666666666666,
+      "f1": 0.8629932985852568,
+      "yes": 0.40756013745704467,
+      "tp": 1159,
+      "fp": 27,
+      "tn": 1383,
+      "fn": 341,
+      "source": "/root/autodl-tmp/transprune-work/results/table1_high/logs/pope.score.log"
+    },
+    {
+      "config": "low",
+      "category": "adversarial",
+      "count": 3000,
+      "acc": 0.844,
+      "precision": 0.903125,
+      "recall": 0.7706666666666667,
+      "f1": 0.8316546762589927,
+      "yes": 0.4266666666666667,
+      "tp": 1156,
+      "fp": 124,
+      "tn": 1376,
+      "fn": 344,
+      "source": "/root/autodl-tmp/transprune-work/results/table1_low/logs/pope.score.log"
+    },
+    {
+      "config": "low",
+      "category": "popular",
+      "count": 3000,
+      "acc": 0.8643333333333333,
+      "precision": 0.948318293683347,
+      "recall": 0.7706666666666667,
+      "f1": 0.8503126149319603,
+      "yes": 0.4063333333333333,
+      "tp": 1156,
+      "fp": 63,
+      "tn": 1437,
+      "fn": 344,
+      "source": "/root/autodl-tmp/transprune-work/results/table1_low/logs/pope.score.log"
+    },
+    {
+      "config": "low",
+      "category": "random",
+      "count": 2910,
+      "acc": 0.8714776632302406,
+      "precision": 0.9747048903878583,
+      "recall": 0.7706666666666667,
+      "f1": 0.8607594936708861,
+      "yes": 0.40756013745704467,
+      "tp": 1156,
+      "fp": 30,
+      "tn": 1380,
+      "fn": 344,
+      "source": "/root/autodl-tmp/transprune-work/results/table1_low/logs/pope.score.log"
+    }
+  ]
+}

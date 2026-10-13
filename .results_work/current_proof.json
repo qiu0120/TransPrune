@@ -1,0 +1,129 @@
+[
+  {
+    "benchmark": "mme",
+    "config": "baseline",
+    "metric": 1505.8788515406163,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_baseline/logs/mme.score.log"
+  },
+  {
+    "benchmark": "seed",
+    "config": "baseline",
+    "metric": 66.19124569662053,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_baseline/logs/seed.score.log"
+  },
+  {
+    "benchmark": "textvqa",
+    "config": "baseline",
+    "metric": 58.21,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_baseline/logs/textvqa.score.log"
+  },
+  {
+    "benchmark": "scienceqa",
+    "config": "baseline",
+    "metric": 69.46,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_baseline/logs/scienceqa.score.log"
+  },
+  {
+    "benchmark": "pope",
+    "config": "baseline",
+    "metric": 85.91996787280682,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_baseline/logs/pope.score.log"
+  },
+  {
+    "benchmark": "gqa",
+    "config": "baseline",
+    "metric": null,
+    "answer_count": 288,
+    "expected_count": 12578
+  },
+  {
+    "benchmark": "mmbench",
+    "config": "baseline",
+    "metric": 64.28571428571429,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_baseline/logs/mmbench.score.log"
+  },
+  {
+    "benchmark": "mme",
+    "config": "high",
+    "metric": 1521.6852741096438,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_high/logs/mme.score.log"
+  },
+  {
+    "benchmark": "seed",
+    "config": "high",
+    "metric": 65.68537904868967,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_high/logs/seed.score.log"
+  },
+  {
+    "benchmark": "textvqa",
+    "config": "high",
+    "metric": 57.85,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_high/logs/textvqa.score.log"
+  },
+  {
+    "benchmark": "scienceqa",
+    "config": "high",
+    "metric": 69.51,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_high/logs/scienceqa.score.log"
+  },
+  {
+    "benchmark": "pope",
+    "config": "high",
+    "metric": 84.99709669265845,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_high/logs/pope.score.log"
+  },
+  {
+    "benchmark": "gqa",
+    "config": "high",
+    "metric": 61.46,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_high/logs/gqa.score.log"
+  },
+  {
+    "benchmark": "mmbench",
+    "config": "high",
+    "metric": 65.47619047619048,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_high/logs/mmbench.score.log"
+  },
+  {
+    "benchmark": "mme",
+    "config": "low",
+    "metric": 1475.3912565026012,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_low/logs/mme.score.log"
+  },
+  {
+    "benchmark": "seed",
+    "config": "low",
+    "metric": 64.11859762523713,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_low/logs/seed.score.log"
+  },
+  {
+    "benchmark": "textvqa",
+    "config": "low",
+    "metric": 56.52,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_low/logs/textvqa.score.log"
+  },
+  {
+    "benchmark": "scienceqa",
+    "config": "low",
+    "metric": 68.77,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_low/logs/scienceqa.score.log"
+  },
+  {
+    "benchmark": "pope",
+    "config": "low",
+    "metric": 84.75755949539463,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_low/logs/pope.score.log"
+  },
+  {
+    "benchmark": "gqa",
+    "config": "low",
+    "metric": 59.9,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_low/logs/gqa.score.log"
+  },
+  {
+    "benchmark": "mmbench",
+    "config": "low",
+    "metric": 64.88095238095238,
+    "source": "/root/autodl-tmp/transprune-work/results/table1_low/logs/mmbench.score.log"
+  }
+]
